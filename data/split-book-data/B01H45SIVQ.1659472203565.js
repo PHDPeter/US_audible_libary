@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Listen to an exclusive interview with Joe Hill. Joe discusses his latest novel <i>The Fireman</i>, the writers that have inspired him, and why he is so passionate about listening to audiobooks.</p>"; 
